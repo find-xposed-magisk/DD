@@ -3,4 +3,6 @@
 
 
 萌咖DD脚本
+```shell
 bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 11 -v 64 -a --mirror 'http://mirrors.tencent.com/' -p 自定义密码
+```
